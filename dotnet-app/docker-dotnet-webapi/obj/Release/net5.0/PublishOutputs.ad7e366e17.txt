@@ -1,0 +1,11 @@
+/home/anon/Desktop/DockerDeploy/dotnet-app/docker-dotnet-webapi/out/docker-dotnet-webapi
+/home/anon/Desktop/DockerDeploy/dotnet-app/docker-dotnet-webapi/out/appsettings.Development.json
+/home/anon/Desktop/DockerDeploy/dotnet-app/docker-dotnet-webapi/out/appsettings.json
+/home/anon/Desktop/DockerDeploy/dotnet-app/docker-dotnet-webapi/out/docker-dotnet-webapi.dll
+/home/anon/Desktop/DockerDeploy/dotnet-app/docker-dotnet-webapi/out/docker-dotnet-webapi.deps.json
+/home/anon/Desktop/DockerDeploy/dotnet-app/docker-dotnet-webapi/out/docker-dotnet-webapi.runtimeconfig.json
+/home/anon/Desktop/DockerDeploy/dotnet-app/docker-dotnet-webapi/out/docker-dotnet-webapi.pdb
+/home/anon/Desktop/DockerDeploy/dotnet-app/docker-dotnet-webapi/out/Microsoft.OpenApi.dll
+/home/anon/Desktop/DockerDeploy/dotnet-app/docker-dotnet-webapi/out/Swashbuckle.AspNetCore.Swagger.dll
+/home/anon/Desktop/DockerDeploy/dotnet-app/docker-dotnet-webapi/out/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/anon/Desktop/DockerDeploy/dotnet-app/docker-dotnet-webapi/out/Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,11 @@
+/home/anon/Desktop/DockerDeploy/dotnet-app/demo/out/demo
+/home/anon/Desktop/DockerDeploy/dotnet-app/demo/out/appsettings.Development.json
+/home/anon/Desktop/DockerDeploy/dotnet-app/demo/out/appsettings.json
+/home/anon/Desktop/DockerDeploy/dotnet-app/demo/out/demo.dll
+/home/anon/Desktop/DockerDeploy/dotnet-app/demo/out/demo.deps.json
+/home/anon/Desktop/DockerDeploy/dotnet-app/demo/out/demo.runtimeconfig.json
+/home/anon/Desktop/DockerDeploy/dotnet-app/demo/out/demo.pdb
+/home/anon/Desktop/DockerDeploy/dotnet-app/demo/out/Microsoft.OpenApi.dll
+/home/anon/Desktop/DockerDeploy/dotnet-app/demo/out/Swashbuckle.AspNetCore.Swagger.dll
+/home/anon/Desktop/DockerDeploy/dotnet-app/demo/out/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/anon/Desktop/DockerDeploy/dotnet-app/demo/out/Swashbuckle.AspNetCore.SwaggerUI.dll
